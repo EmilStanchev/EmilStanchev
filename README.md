@@ -3,4 +3,4 @@
 
 
 - 🌱 I’m currently learning ... JavaScript <img width= "22px" src = "https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png">
-< a href= "#"> <img src = "https://w7.pngwing.com/pngs/623/523/png-transparent-instagram-logo-instagram-facebook-inc-youtube-organization-instagram.png"> <a/>
+<img src = " [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emobe263/)  "> 
