@@ -15,13 +15,13 @@
 I am open for job offers at any time.
 </p>
 
-# Talk with me:e-mail:
+# Talk with me :e-mail:
 
 
 [![Mail Badge](https://img.shields.io/badge/-emilstan4ev03-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:emilstan4ev03@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Emil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilstanchev/)
 [![Mail Badge](https://img.shields.io/badge/-@emobe263-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/emobe263/)
-# You want to know me better?:grinning:
+# You want to know me better? :grinning:
 <details>
 <summary>
 More stuff about me :fire:
