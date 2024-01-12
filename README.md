@@ -1,7 +1,7 @@
 # Hi, I`m Emil👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=EmilStanchev&show_icons=true&theme=gruvbox" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilStanchev&layout=compact" />
+<img align="left" style="margin-bottom:10%;" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilStanchev&layout=compact" />
 <img align="left" alt="MYSQL" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img align="left" alt="MYSQL" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
