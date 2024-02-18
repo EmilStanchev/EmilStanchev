@@ -1,7 +1,7 @@
 # Hi, I`m Emil👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=EmilStanchev&show_icons=true&theme=gruvbox" />
-
-<img align="left" style="margin-bottom:10%;" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilStanchev&layout=compact" />
+<a href="https://contra.com/emilstan4ev_wsan6se8?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link" target="_blank"><img src="https://i.imgur.com/nistQrD.gif" width="43%" height="100%" />
+</a>
 
 # 🧰 Languages and Tools
 
@@ -14,6 +14,7 @@
 <br />
 <br />
 
+
 # About me<img alt="About me" width="2%" src="https://user-images.githubusercontent.com/95076536/226442010-17468e01-484c-4f41-811d-650093abc054.png" />
 
 
@@ -23,10 +24,12 @@ I am open for job offers at any time.
 
 # Talk with me :e-mail:
 
+<a href="https://contra.com/emilstan4ev_wsan6se8?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link" target="_blank"><img src="https://i.imgur.com/CJ85IjN.png"/></a>
 
 [![Mail Badge](https://img.shields.io/badge/-emilstan4ev03-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:emilstan4ev03@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Emil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilstanchev/)
 [![Mail Badge](https://img.shields.io/badge/-@emobe263-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/emobe263/)
+<div class="contra-hire-me-button" data-analyticsUserId="dee488df-5cc5-4f03-b743-05d199195817" data-theme="light" data-username="emilstan4ev_wsan6se8"></div>
 # You want to know me better? :grinning:
 <details>
 <summary>
