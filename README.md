@@ -24,7 +24,6 @@ I am open for job offers at any time.
 
 # Talk with me :e-mail:
 
-<a href="https://contra.com/emilstan4ev_wsan6se8?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link" target="_blank"><img src="https://i.imgur.com/CJ85IjN.png"/></a>
 
 [![Mail Badge](https://img.shields.io/badge/-emilstan4ev03-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:emilstan4ev03@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Emil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilstanchev/)
