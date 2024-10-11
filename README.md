@@ -1,7 +1,6 @@
 # Hi, I`m Emil👋
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=EmilStanchev&show_icons=true&theme=gruvbox" />
-<a href="https://contra.com/emilstan4ev_wsan6se8?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link" target="_blank"><img src="https://i.imgur.com/nistQrD.gif" width="43%" height="100%" />
-</a>
+<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=EmilStanchev&show_icons=true&theme=gruvbox" />
+
 
 # 🧰 Languages and Tools
 
