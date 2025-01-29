@@ -17,7 +17,7 @@
 # About me<img alt="About me" width="2%" src="https://user-images.githubusercontent.com/95076536/226442010-17468e01-484c-4f41-811d-650093abc054.png" />
 
 
-<p> I am a 19-year-old student from Bulgaria. I'm currently studying at Veliko Tarnovo University and learning Javascript and React.js. 
+<p> I am a 21-year-old student from Bulgaria. I'm currently studying at Veliko Tarnovo University and learning Javascript and React.js. 
 I am open for job offers at any time.
 </p>
 
