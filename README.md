@@ -17,7 +17,7 @@
 # About me<img alt="About me" width="2%" src="https://user-images.githubusercontent.com/95076536/226442010-17468e01-484c-4f41-811d-650093abc054.png" />
 
 
-<p> I am a 21-year-old student from Bulgaria. I'm currently studying at Veliko Tarnovo University and learning Javascript and React.js. 
+<p> I am a 21-year-old student from Bulgaria. I'm currently studying at Veliko Tarnovo University and learning Javascript, React.js. 
 I am open for job offers at any time.
 </p>
 
@@ -34,5 +34,8 @@ I am open for job offers at any time.
 More stuff about me :fire:
 </summary>
 <br >
-I am a web developer based in Veliko Turnovo, Bulgaria, with a fervent dedication to mastering diverse programming languages and continually advancing my expertise in the realm of coding. Proficient in C# and ASP.NET and Javascript I demonstrate a robust command of MySQL, coupled with hands-on experience in React.js. <br>
-Beyond my professional pursuits, I find fulfillment in extracurricular activities such as watching football, indulging in captivating TV series, and reading books. My multifaceted interests contribute to a well-rounded approach to both work and life, reflecting my commitment to continuous growth and excellence in the field of web development.
+Hi, I’m Emil — a web developer passionate about building modern, user-friendly web applications. I enjoy working with technologies like C#, ASP.NET, JavaScript, and React.js, and I have solid experience with MySQL. I'm always eager to expand my knowledge and take on new challenges in the ever-evolving world of tech.
+
+I’ve also worked as a freelancer on Fiverr, where I completed projects for clients that helped me sharpen my problem-solving abilities, improve communication skills, and learn how to deliver high-quality work efficiently and independently.
+
+Outside of coding, I enjoy watching football, diving into great TV series, reading both tech and non-tech books, and spending time fishing — a hobby that helps me relax, recharge, and stay focused. I believe a curious mind and a well-balanced lifestyle are key to doing meaningful work and growing as a developer.
