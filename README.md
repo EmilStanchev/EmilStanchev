@@ -1,5 +1,8 @@
 # Hi, I`m Emil👋
 
+<p> Frontend developer skilled in React, React Native, Tailwind CSS, Node.js. Actively seeking internships or junior roles to grow and contribute to real projects.I’ve delivered landing pages and portfolio websites for clients on Fiverr
+</p>
+
 # 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -16,11 +19,7 @@
 <br />
 
 
-# About me<img alt="About me" width="2%" src="https://user-images.githubusercontent.com/95076536/226442010-17468e01-484c-4f41-811d-650093abc054.png" />
 
-
-<p> Frontend developer skilled in React, React Native, Tailwind CSS, Node.js. Actively seeking internships or junior roles to grow and contribute to real projects.
-</p>
 
 # Talk with me :e-mail:
 
